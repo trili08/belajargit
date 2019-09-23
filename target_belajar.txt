@@ -3,3 +3,5 @@ Selasa:SIM
 
 Kamis:GNS3
 Jumat:Trager DB
+Sabtu: Teddy Tugas Kelompok UI
+Minggu: Teddy Tugas Kelompok Basis Data Lanjut
