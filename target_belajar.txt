@@ -1,0 +1,5 @@
+Senin:Boostrap, Git
+Selasa:SIM
+
+Kamis:GNS3
+Jumat:Trager DB
